@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on full stack Web Development and Phython.
+🌱 I’m currently learning React.Js, Node.Js and MongoDB.
+👯 I’m looking to collaborate in any feild if your idea gets me intrigued.
+🤔 I’m looking for help with Internships.
+💬 Ask me about Anything here ! I am happy to help.
+😄 Pronouns : He/Him/His
+⚡ Fun fact : Learning is a never ending process.
+ I might end up being a Stand Up comedian. So if this ain't updated you know.
 <!--
 **Anunay-Anand/Anunay-Anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
