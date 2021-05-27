@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anunay-anand" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anunay-anand" height="30" width="60" /></a>
-<a href="https://fb.com/anunay anand" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="anunay anand" height="30" width="60" /></a>
-<a href="https://instagram.com/ch.anand.ler_bing" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ch.anand.ler_bing" height="30" width="60" /></a>
-<a href="https://www.leetcode.com/anunay07" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="anunay07" height="30" width="60" /></a>
+<a href="https://linkedin.com/in/anunay-anand" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anunay-anand" height="40" width="80" /></a>
+<a href="https://fb.com/anunay anand" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="anunay anand" height="40" width="80" /></a>
+<a href="https://instagram.com/ch.anand.ler_bing" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ch.anand.ler_bing" height="40" width="80" /></a>
+<a href="https://www.leetcode.com/anunay07" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="anunay07" height="40" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
