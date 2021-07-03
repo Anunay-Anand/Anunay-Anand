@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **full stack Web Development and Python.**
 
-- 🌱 I’m currently learning **React.Js, Node.Js, django and MongoDB.**
+- 🌱 I’m currently learning **React.Js, Next.js and TypeScript**
 
 - 👯 I’m looking to collaborate on **any feild if your idea gets me intrigued.**
 
