@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunay-anand&label=Profile%20views&color=0e75b6&style=flat" alt="anunay-anand" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anunay-anand" alt="anunay-anand" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=anunay-anand" alt="anunay-anand" /></a> </p>
 
 - 🔭 I’m currently working on **full stack Web Development and Python.**
 
