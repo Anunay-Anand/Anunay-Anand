@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=anunay-anand" alt="anunay-anand" /></a></p>
 
-- 🔭 I’m currently working on **full stack Web Development and Python.**
+- 🔭 I’m currently working on **front end and full stack web development**
 
 - 🌱 I’m currently learning **React.Js, Next.js and TypeScript**
 
