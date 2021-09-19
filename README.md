@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **front end and full stack web development**
 
-- 🌱 I’m currently learning **Next.js, Unit Testings and TypeScript**
+- 🌱 I’m currently learning **AWS, Unit Testings and TypeScript**
 
 - 👯 I’m looking to collaborate on **any feild if your idea gets me intrigued.**
 
