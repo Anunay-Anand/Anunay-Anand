@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **front end and full stack web development**
 
-- 🌱 I’m currently learning **AWS, Docker and Pipilines**
+- 🌱 I’m currently learning **AWS, TypeScript and Pipilines**
 
 - 👯 I’m looking to collaborate on **any feild if your idea gets me intrigued.**
 
