@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **front end and full stack web development**
 
-- 🌱 I’m currently learning **AWS and TypeScript**
+- 🌱 I’m currently learning **JAVA Core, Dev Ops and entire Java Development Cycle**
 
 - 👯 I’m looking to collaborate on **any feild if your idea gets me intrigued.**
 
