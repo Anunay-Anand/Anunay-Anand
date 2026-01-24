@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anunay Anand</h1>
-<h3 align="center">A passionate full stack developer. I'm funny.</h3>
+<h3 align="center">A passionate Full Stack developer. I'm funny.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunay-anand&label=Profile%20views&color=0e75b6&style=flat" alt="anunay-anand" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **front end and full stack web development**
 
-- 🌱 I’m currently learning **JAVA Core, Dev Ops and entire Java Development Cycle**
+- 🌱 I’m currently learning **gRPC, Advanced LLMs, Prompt Engineering and Advanced Java**
 
 - 👯 I’m looking to collaborate on **any feild if your idea gets me intrigued.**
 
